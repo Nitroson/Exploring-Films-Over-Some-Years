@@ -28,5 +28,5 @@
 
 
 # Installation
-Clone this repo to your computer
-Get into the folder using cd Exploring-Films-Over-Some-Years
+>Clone this repo to your computer
+>Get into the folder using cd Exploring-Films-Over-Some-Years
