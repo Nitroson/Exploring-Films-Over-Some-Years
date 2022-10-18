@@ -1,29 +1,24 @@
 # Exploring-Films-Over-Some-Years
 ## Jupyter notebook (Python)
-#### A  database includes data on past movies set that has ever been release for the past year ; the title of the movies, genres,rating etc. In this project, we get to explore the  database. We use only one dataset in this project (movies dataset ).
-### Questions for Data Analysis
-* >Which movies made the most profits respectively?
 
-* >Which movies were the longest?
+### Problem Statement
 
-* >How long were the highest grossing movies?
+A multinational entertainment company decides to set up a cinema studio worldwide.In order to know the interest of individuals in terms of movies selection and also to know how to run this business and make more profits.
 
-* >Which movies generated the most and least earned revenue respectively?
-
-* >Which movies were the highest scoring?
-
-* >What is the relationship between movie duration and votes?
-
-* >How does popularity affect votes and performances?
-
-* >How have top scoring movies related with movie duration over the years?
-
-* >Does budget really influence movie ratings and performance?
-
-* >How has movie costing increased over the years? 
+Before the management team of the company can make good decision ,they want to draw the necessary insight from their 'sitting data of some released movies over the past years'.
 
 
+### Goals
 
+>At the end of this analysis, we should know:
+
+
+1.  Which Movie Has The Highest Or Lowest Profit? Top 10 movies which earn highest profit?
+2.  Movie with Highest And Lowest Budget? 
+3.  Which movie made the highest revenue and lowest as well?
+4.  Movie with shorest and longest runtime?
+5.  Which movie get the highest or lowest votes (Ratings).
+6.  Which length movies most liked by the audiences according to their popularity?
 
 
 # Installation
